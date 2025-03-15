@@ -44,6 +44,5 @@ px.choropleth(
 )
 ```
 
-:::
 
 Sample quarto report from the GRAPH Courses python bootcamp (thegraphcourses.org/pbb).
